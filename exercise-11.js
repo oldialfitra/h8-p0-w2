@@ -4,7 +4,7 @@ function balikKata(kata) {
         hasil += kata[i]
 
     }
-    return o
+    return hasil
 }
 
 console.log(balikKata('Hello World and Coders')); // sredoC dna dlroW olleH
